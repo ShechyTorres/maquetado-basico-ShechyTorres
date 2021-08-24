@@ -1,2 +1,2 @@
-# Maquetado Basico - ShechyTorres
-- [Pagina de Maquetado Basico](index.html)
+# Maquetado Básico - ShechyTorres
+- [Página de Maquetado Básico](index.html)
