@@ -1,2 +1,2 @@
-# maquetado-basico-ShechyTorres
-maquetado-basico-ShechyTorres created by GitHub Classroom
+# Maquetado Basico - ShechyTorres
+-[Pagina de Maquetado Basico](index.html)
